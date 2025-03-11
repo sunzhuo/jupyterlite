@@ -46,4 +46,3 @@ bqplot
 
 # Threejs
 pythreejs
-jupyter-threejs
